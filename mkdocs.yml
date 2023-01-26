@@ -1,0 +1,8 @@
+site_name: tanuupython
+site_description: Scaffolded from Tanuu Backstage
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

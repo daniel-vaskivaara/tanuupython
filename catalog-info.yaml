@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tanuupython"
+  description: "Scaffolded from Tanuu Backstage"
+  annotations:
+    github.com/project-slug: tanuudemo/tanuupython
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: repository
+  lifecycle: experimental
+  owner: "acme"
